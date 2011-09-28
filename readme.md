@@ -2,7 +2,14 @@
 
 A nice boilerplate couchapp that uses Twitter's bootstrap css, hij1nks' sugarskull client side router, mustache templating, underscore.js and more.
 
-## Installation
+## Installation Option 1
+
+Requirements java and CouchDB
+
+[Click Here] (http://reupholster.iriscouch.com/reupholster/_design/app/_show/webstart.jnlp?template=https://github.com/maxogden/couchtml5/zipball/master)
+
+
+## Installation Option 2
 
 This will walk you through getting the couchtml5 app template and dev environment running on your local machine.
 
