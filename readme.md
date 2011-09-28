@@ -6,7 +6,9 @@ A nice boilerplate couchapp that uses Twitter's bootstrap css, hij1nks' sugarsku
 
 Requirements java and CouchDB
 
-[Click Here] (http://reupholster.iriscouch.com/reupholster/_design/app/_show/webstart.jnlp?template=https://github.com/maxogden/couchtml5/zipball/master)
+[Edit With Reupholster] (http://reupholster.iriscouch.com/reupholster/_design/app/_show/webstart.jnlp?template=https://github.com/maxogden/couchtml5/zipball/master)
+
+[About Reupholster](http://reupholster.iriscouch.com/reupholster/_design/app/index.html)
 
 
 ## Installation Option 2
